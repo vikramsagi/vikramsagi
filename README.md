@@ -1,6 +1,6 @@
 # Vikram Sagi
 
-I am a product manager working on platform products and generative AI in healthcare and financial services. I like turning messy business and engineering requirements into products that ship and hold up. Outside work, I build AI products end to end, from the problem to the evals.
+I am a product manager working on platform products and generative AI in healthcare and financial services. I like turning messy business and engineering requirements into products that ship and hold up. Outside work, I build products end to end, from the problem to the evals.
 
 **Claude Certified Architect, Professional (CCAR-P)** · **MS, Management of Technology, New York University** · **Owned the roadmap for an Optum API gateway behind 1,500+ APIs**
 
